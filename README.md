@@ -2,7 +2,8 @@
 
 All the records mentioned in the Sheet have been added in their respective table in SQLite database. using [Querry.sql](https://github.com/ajit116/Django-api/blob/main/Querry.sql)
 
-Futher on going into questions 
+Futher on going into questions Postman has been used to GET/ POST the records as per the requirements.
+
 1. Create an API to perform operations on Sales, Product Master, and Branch Master to get required results
 -> It can be found on http://127.0.0.1:8000/JoinOperationAPI below is the image of Json records fetched from Postman
 with **Date, ProductID, BranchID, Price, Quantity, ProductName, Category, BranchName, City** column respectively.
